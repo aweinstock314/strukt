@@ -2,6 +2,10 @@
 name = "strukt"
 version = "0.1.0"
 authors = ["Avi Weinstock <aweinstock314@gmail.com>"]
+description = "strukt is an implementation of Python's struct module for ad-hoc [de]serialization"
+repository = "https://github.com/aweinstock314/strukt"
+license = "MIT / Apache-2.0"
+keywords = ["struct", "parsing"]
 
 [lib]
 proc-macro = true
